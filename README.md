@@ -24,9 +24,7 @@ Ce cours s'adresse aux étudiants de 4ᵉ année du **Diplôme de l’Institut N
 
 | Séance | Contenu | Objectifs |  
 |--------|---------|-----------|  
-| 1 | Introduction à Python
-
-• Installation de l'environnement | Configurer un environnement de développement adapté à l'urbanisme. |  
+| 1 | Introduction à Python • Installation de l'environnement | Configurer un environnement de développement adapté à l'urbanisme. |  
 | 2 | Variables, types de données, opérations | Maîtriser le traitement de nombres et de textes. |  
 | 3 | Structures conditionnelles (`if`, `elif`, `else`) | Modéliser des scénarios d'analyse urbaine. |  
 | 4 | Boucles (`for`, `while`) | Automatiser le traitement de données en masse. |  
