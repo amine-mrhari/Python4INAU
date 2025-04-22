@@ -5,6 +5,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-%23007ACC) 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0.10-lightgreen) 
 ![Folium](https://img.shields.io/badge/Folium-0.14-77B829)
+
 Un cours conçu pour renforcer les compétences en programmation Python appliquée à l'analyse de données urbaines et à l'aménagement du territoire.
 
 ---
