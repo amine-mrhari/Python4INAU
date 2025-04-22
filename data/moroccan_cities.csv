@@ -1,0 +1,31 @@
+Ville,Code,Population (2023),Superficie (km²),Densité (hab/km²),Province,Région
+Casablanca,MA-CAS,3712000,220,16873,Casablanca,Casablanca-Settat
+Rabat,MA-RAB,580000,117,4957,Rabat,Rabat-Salé-Kénitra
+Fès,MA-FES,1112000,320,3475,Fès,Fès-Meknès
+Marrakech,MA-MAR,966987,230,4204,Marrakech,Marrakech-Safi
+Tanger,MA-TNG,947952,199,4763,Tanger-Tétouan-Al Hoceïma,Tanger-Tétouan-Al Hoceïma
+Agadir,MA-AGD,600178,62,9680,Agadir Ida-Outanane,Souss-Massa
+Meknès,MA-MEK,650000,90,7222,Meknès,Fès-Meknès
+Oujda,MA-OUJ,494252,50,9885,Oujda-Angad,Oriental
+Kénitra,MA-KEN,431282,40,10782,Kénitra,Rabat-Salé-Kénitra
+Tétouan,MA-TET,380787,120,3173,Tétouan,Tanger-Tétouan-Al Hoceïma
+Salé,MA-SAL,982163,95,10338,Salé,Rabat-Salé-Kénitra
+Mohammédia,MA-MOH,208612,33,6322,Mohammédia,Casablanca-Settat
+El Jadida,MA-JDI,194934,20,9747,El Jadida,Casablanca-Settat
+Nador,MA-NAD,161726,10,16173,Nador,Oriental
+Settat,MA-SET,142250,11,12932,Settat,Casablanca-Settat
+Beni Mellal,MA-BEM,192676,52,3705,Beni Mellal,Beni Mellal-Khénifra
+Khouribga,MA-KHO,196196,40,4905,Khouribga,Beni Mellal-Khénifra
+Errachidia,MA-ERR,92374,20,4619,Errachidia,Drâa-Tafilalet
+Taza,MA-TAZ,152678,37,4126,Taza,Fès-Meknès
+Larache,MA-LAR,125008,25,5000,Larache,Tanger-Tétouan-Al Hoceïma
+Safi,MA-SAF,308508,34,9074,Safi,Marrakech-Safi
+Guelmim,MA-GLM,187808,30,6260,Guelmim,Guelmim-Oued Noun
+Laâyoune,MA-LAA,217732,21,10368,Laâyoune,Laâyoune-Sakia El Hamra
+Dakhla,MA-DAK,106277,10,10628,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab
+Berrechid,MA-BER,136634,15,9109,Berrechid,Casablanca-Settat
+Ouarzazate,MA-OUA,71457,36,1985,Ouarzazate,Drâa-Tafilalet
+Taroudant,MA-TAR,80238,16,5015,Taroudant,Souss-Massa
+Ifrane,MA-IFR,14857,37,401,Ifrane,Fès-Meknès
+Essaouira,MA-ESU,77666,90,863,Essaouira,Marrakech-Safi
+Chefchaouen,MA-CHF,42909,14,3065,Chefchaouen,Tanger-Tétouan-Al Hoceïma
