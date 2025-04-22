@@ -63,4 +63,4 @@ Ce cours s'adresse aux étudiants de 4ᵉ année du **Diplôme de l’Institut N
 ## 🔍 Comment Commencer ?  
 1. Cloner ce dépôt :  
    ```bash  
-   git clone https://github.com/votre-utilisateur/python-urbanisme.git  
+   git clone https://github.com/amine-mrhari/Python4INAU.git  
