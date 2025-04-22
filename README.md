@@ -47,7 +47,7 @@ Ce cours s'adresse aux étudiants de 4ᵉ année du **Diplôme de l’Institut N
 ---
 
 ## 📚 Supports Pédagogiques  
-- Documents de cours (PDF/notebooks)  
+- Documents de cours (pptx/notebooks)  
 - Notebooks Jupyter avec exemples et exercices  
 - Accès à une plateforme en ligne pour les TP  
 
