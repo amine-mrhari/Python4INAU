@@ -34,8 +34,8 @@ Ce cours s'adresse aux étudiants de 4ᵉ année du **Diplôme de l’Institut N
 | 2 | Variables, types de données, opérations | Maîtriser le traitement de nombres et de textes. |  
 | 3 | Structures conditionnelles (`if`, `elif`, `else`) | Modéliser des scénarios d'analyse urbaine. |  
 | 4 | Boucles (`for`, `while`) | Automatiser le traitement de données en masse. |  
-| 5 | Fonctions et modularisation | Structurer le code pour la réutilisation. |  
-| 6 | Listes, tuples, dictionnaires | Organiser des données urbaines (statistiques, inventaires). |  
+| 5 | Listes, tuples, dictionnaires | Organiser des données urbaines (statistiques, inventaires). |  
+| 6 | Fonctions et modularisation | Structurer le code pour la réutilisation. |  
 | 7 | NumPy : tableaux de données | Traiter des grands jeux de données numériques. |  
 | 8 | Pandas : fichiers CSV et analyse | Importer et transformer des données urbaines (ex. : population). |  
 | 9 | Matplotlib : visualisation | Créer des graphiques et histogrammes. |  
